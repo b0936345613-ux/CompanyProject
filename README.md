@@ -9,7 +9,7 @@
 
 [googl](http://www.google.com)
 
-[doc文件](doc/vote.doc)
+[doc文件](doc/vote.docx)
 
 
 [java檔](SchoolProject/src/com/sa/Student.java)
