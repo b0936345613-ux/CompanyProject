@@ -1,2 +1,2 @@
 # CompanyProject
-簡單電商
+簡單點
